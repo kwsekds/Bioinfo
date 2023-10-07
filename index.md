@@ -22,7 +22,7 @@
   
  >### **学习内容和方法**
 
-<img width="100" alt="屏幕截图 2023-10-06 181654" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/dec6db29-9515-48e3-9b75-0d3f3e3d4948">
+<img width="100" alt="屏幕截图 2023-10-06 181654" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/dec6db29-9515-48e3-9b75-0d3f3e3d4948">
 
 
  
