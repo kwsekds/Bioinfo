@@ -22,19 +22,21 @@
   
  >### **学习内容和方法**
 
-<img width="100" alt="屏幕截图 2023-10-06 181654" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/d3fb773f-8681-4d17-9c55-3fe7fae52511">
+<img width="100" alt="屏幕截图 2023-10-06 181654" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/d3fb773f-8681-4d17-9c55-3fe7fae52511">
 
 
  
  >### **评分机制**
-<img width="250" alt="屏幕截图 2023-10-06 181900" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/c01cad4f-9b00-4301-bab6-4f7aec17a84d">
+
+<img width="250" alt="屏幕截图 2023-10-06 181900" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/e42b0ea1-6308-4b95-aace-927fc7ec86eb">
 
 
 
 
  >### **contact**
  
- <img width="250" alt="屏幕截图 2023-10-06 182042" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/42bdd6b2-1e5e-4d54-a013-0a569f2416c8">
+<img width="250" alt="屏幕截图 2023-10-06 182042" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/7d48fab1-aff4-484e-b833-266511e77921">
+
 
  
  >### **steps of Bioinformatics**
@@ -44,7 +46,8 @@
  >. Sequences
  >#### **2. model**
  >##### 数学或概率模型
-<img width="250" alt="屏幕截图 2023-10-06 183820" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/121f5d5e-ea82-4aa5-ad11-b6d4458bf304">
+<img width="250" alt="屏幕截图 2023-10-06 183820" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/fa81b80c-3220-4664-9cbf-10692a703174">
+
 
  
  >模型的关键：**输入 输出**
@@ -54,7 +57,8 @@
  >    logistics regression模型： 输入x是连续值，输出y为是or否（0 or 1）
  >    
  >**. tree model**
- <img width="250" alt="屏幕截图 2023-10-06 185015" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/0d37805e-689b-4fb3-af07-9da690f58f13">
+<img width="250" alt="屏幕截图 2023-10-06 185015" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/4521ebf6-6bf1-4bf3-8c61-708b4d8c64de">
+
 
  
  >  生物学中常用模型，多个x，指定到多个y，精确度由x个数决定
@@ -69,13 +73,15 @@
  >#####  Computational Algorithm
  >**算法**不涉及太多数学模型，如编写的程序
 
-<img width="250" alt="屏幕截图 2023-10-06 190432" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/4f19b3bd-9798-460c-83d8-4913cdfc2d69">
+<img width="250" alt="屏幕截图 2023-10-06 190432" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/641f7a62-7ffe-4d8b-9b98-9089858ce495">
+
 
 
 
 
 >### **Github 1 & Markdown**
-<img width="250" alt="屏幕截图 2023-10-06 191109" src="https://githubfast.com/kwsekds/Bioinfo.github.io/assets/146935401/758920ab-5f3a-4c36-a576-f5032cb6137b">
+<img width="250" alt="屏幕截图 2023-10-06 191109" src="https://github.com/kwsekds/Bioinfo.github.io/assets/146935401/f2b21865-a4d8-4d8b-85bc-41d4824830ad">
+
 
 
 
